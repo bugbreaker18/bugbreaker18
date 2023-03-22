@@ -4,13 +4,13 @@ Machine Learning enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jay078" alt="jay078" /> </p>
 
-- 🔭 I’m currently working on **Collage Project**
+- 🔭 I’m currently working on **ChatGPT Clone App**
 
-- 🌱 I’m currently learning **About Android Database**
+- 🌱 I’m currently learning **API & ML Integration**
 
-- 💬 Ask me about **Flutter Android XML**
+- 💬 Ask me about **Flutter Android**
 
-- 📫 How to reach me **https://www.instagram.com/_jay_367/**
+- 📫 How to reach me **https://www.linkedin.com/in/shreyansh-shukla-795171239/**
 
 <p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/></p>
 
@@ -18,10 +18,7 @@ Machine Learning enthusiast</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jay078&show_icons=true" alt="jay078" /></p>
 
 <p align="center">
-<a href="https://instagram.com/_jay_367" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_jay_367" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/shreyansh-shukla-795171239/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Shreyansh" height="30" width="30" /></a>
 </p>
 
 ----
-Credit: [jay078](https://github.com/jay078)
-
-Last Edited on: 23/09/2020
