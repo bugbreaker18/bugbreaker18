@@ -2,7 +2,6 @@
 <h3 align="center">I Love to Build Cross Platform Applications. 
 Machine Learning enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jay078" alt="jay078" /> </p>
 
 - 🔭 I’m currently working on **ChatGPT Clone App**
 
