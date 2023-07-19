@@ -1,37 +1,109 @@
-<h1 align="center">Hey, curious minds👋, I'm Shreyansh Shukla</h1>
-<h3 align="center">A passionate Machine Learning and Data Science enthusiast</h3>
+[![MasterHead](https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif)](https://arjuncvinod.github.io)
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Shreyansh Shukla (aka bugbreaker)</h1>
+ 
+<div align=center>
+        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=ML-Enthusiast;Data-Science+Student;Freelancer;Open-Source+Enthusiast" alt="Headline" />
+    </div>  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bugbreaker18&label=Profile%20views&color=0e75b6&style=flat" alt="bugbreaker18" /> </p>
+<img align="right" alt="Coding" width="400" src="https://octodex.github.com/images/daftpunktocat-guy.gif">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bugbreaker18" alt="bugbreaker18" /></a> </p>
+![GitHub followers](https://img.shields.io/github/followers/bugbreaker18?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/bugbreaker18?style=social)<img src="https://komarev.com/ghpvc/?username=bugbreaker18" alt="" />
 
-- 🔭 I’m currently working on ML - Face Recognition [Facial Attendance system](will be there soon)
+<picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px align="center"></picture> <br> **About Me**
 
-- 🌱 I’m currently learning **Natural Language Processing, Data Analytics**
 
-- 🤝 I’m looking for help with **internships / freelance**
+ 🔭 I’m currently working on Object Detection using Deep Learning
 
-- 👨‍💻 All of my projects are available at [https://github.com/bugbreaker18](https://github.com/bugbreaker18)
+ 🌱 I’m currently learning **Tensorflow**
 
-- 💬 Ask me about **Machine Learning, Data Science, Python, AI, Chatbots and similar stuff**
+ 💬 Ask me about **Machine Learning, Deep Learning, Data Science, AI**
 
-- 📫 How to reach me : **Linkedin: https://www.linkedin.com/in/shreyansh-shukla-795171239/**
+ 📫 Reach out to me: **bugbreaker18@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1rfy_U0kTyz5wqCTDeT_-EHgNMJ0q93-q/edit?usp=drive_link&ouid=109498124801935746658&rtpof=true&sd=true](https://docs.google.com/document/d/1rfy_U0kTyz5wqCTDeT_-EHgNMJ0q93-q/edit?usp=drive_link&ouid=109498124801935746658&rtpof=true&sd=true)
+ ✍ You can find my resume [here](https://drive.google.com/file/d/1jf4Q983XyvWb2HYxRNm5X3v7uRBD08ag/view?usp=sharing)
 
-- ⚡ Fun fact **I sleep 4 hours a day!**
+ ⚡ Fun fact: **I tried almost everything else before loving ML. Love Messing with Data"**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@bugbreaker18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@bugbreaker18" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shreyansh-shukla-795171239" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shreyansh-shukla-795171239" height="30" width="40" /></a>
-<a href="https://kaggle.com/bugbreaker18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="bugbreaker18" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/bugbreaker18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bugbreaker18" height="30" width="40" /></a>
-</p>
+ <p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
+<br>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width=50px>Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreyansh-shukla-795171239/)
+ [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/bugbreaker18)
+ 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bugbreaker18&show_icons=true&locale=en&layout=compact" alt="bugbreaker18" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bugbreaker18&" alt="bugbreaker18" /></p>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> <b>  Skills</b> 
+[![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white)](https://www.python.org/)
+ [![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)](https://www.tensorflow.org/)
+ [![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white)](https://keras.io/)
+ [![OpenCV](https://img.shields.io/badge/OpenCV-%23FF0000.svg?style=flat&logo=OpenCV&logoColor=white)](https://opencv.org/)
+ [![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)](https://pytorch.org/)
+[![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat&logo=NumPy&logoColor=white)](https://numpy.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat&logo=Pandas&logoColor=white)](https://pandas.pydata.org/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-%23FF7400.svg?style=flat&logo=Matplotlib&logoColor=white)](https://matplotlib.org/)
+[![Scikit-learn](https://img.shields.io/badge/Scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
+[![KNN](https://img.shields.io/badge/KNN-%2342B7D8.svg?style=flat&logoColor=white)](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm)
+[![CNN](https://img.shields.io/badge/CNN-%23FF6F00.svg?style=flat&logoColor=white)](https://en.wikipedia.org/wiki/Convolutional_neural_network)
+[![SciPy](https://img.shields.io/badge/SciPy-%238CAAE6.svg?style=flat&logo=SciPy&logoColor=white)](https://www.scipy.org/)
+
+ [![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=MongoDB&logoColor=white)](https://www.mongodb.com/)
+ [![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=flat&logo=Firebase&logoColor=white)](https://firebase.google.com/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-%2380B98F.svg?style=flat&logo=Streamlit&logoColor=white)](https://streamlit.io/)
+ [![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=flat&logo=Flask&logoColor=white)](https://flask.palletsprojects.com/)
+ [![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=flat&logo=Django&logoColor=white)](https://www.djangoproject.com/)
+[![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=flat&logo=Postman&logoColor=white)](https://www.postman.com/)
+[![Power BI](https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=flat&logo=Power%20BI&logoColor=white)](https://powerbi.microsoft.com/)
+![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) 	 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)  ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat&logo=Raspberry-Pi)
+
+<img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg" width="100%">
+
+<p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
+<br>
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+<!--- stats & Trophy (start) -->
+<p align="center">
+  <!--- stats (start) -->
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=bugbreaker18&theme=midnight-purple&show_icons=true&count_private=true
+" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=bugbreaker18&theme=midnight-purple&hide_border=false" /> 
+</td>
+
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=bugbreaker18&theme=midnight-purple&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
+</table>
+<!--- stats (end) -->
+
+<!--- trophy (start) -->
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bugbreaker18&layout=compact&theme=radical&column=7&row=1&margin-w=15&margin-h=15" alt="bugbreaker18" /></a> </p>
+<!--- trophy (end) -->
+
+
+</p>        
+<!--- stats (end) -->
+
+<p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
+<br>
+
+## 😂 Here is a random joke that'll make you laugh!
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
+
+
+
+
+Credit: [bugbreaker18](https://github.com/bugbreaker18)
