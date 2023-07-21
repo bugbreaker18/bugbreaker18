@@ -12,7 +12,7 @@
 <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px align="center"></picture> <br> **About Me**
 
 
- 🔭 I’m currently working on Object Detection using Deep Learning
+ 🔭 I’m currently working on **Object Detection using Deep Learning**
 
  🌱 I’m currently learning **Tensorflow**
 
