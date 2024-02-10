@@ -1,6 +1,6 @@
 ### Hello there 😸
 
-#### An ML/Backend Developer by day ☼ and a GDSC Vice Lead by night ☾
+#### An ML Developer by day ☼ and Backend Developer by night ☾
 
 ### Not another AI guy ### 
 
