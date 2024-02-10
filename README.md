@@ -1,6 +1,4 @@
-### Hello there 👋
-
-[![wakatime](https://wakatime.com/badge/user/018d7dd6-0967-4988-81a1-b3b4358ff549.svg)](https://wakatime.com/@018d7dd6-0967-4988-81a1-b3b4358ff549)
+### Hello there 😸
 
 #### An ML/Backend Developer by day ☼ and a GDSC Vice Lead by night ☾
 
