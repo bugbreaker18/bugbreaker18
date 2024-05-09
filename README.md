@@ -5,8 +5,8 @@
 ### Not another AI guy ### 
 
 
-- ⚙️ I use daily: `.py`, `.csv`,`.json`, `.ipynb`, `.tsx`, `SQL`, `.jsx`
-- 🌍 I make: `ML/DL models`, `Fine tune LLMs`, `Automation Scripts`, `Scraping scripts`, `Backend`, `Data Analysis Reports`
+- ⚙️ I use daily: `.py`,`.ipynb`, `.tsx`, `SQL`, `.jsx`, `.csv`,`.json`
+- 🌍 I make: `Websites`,`ML/DL models`, `Automation Scripts`, `Scraping scripts`, `Backend`
 - I'm just trying to make sense of it all, one day at a time.
-- 🦜 Langchain-ing my way
-- 💬 `ping` me about **Neural Networks**, **Transformers** , **Autoencoders** , **LLMs**, **Python**, **FastAPI**, **Flask**
+- Nod-ifying my way
+- 💬 `ping` me about **Backend**,**Neural Networks**, **Transformers**, **Python**, **Flask**
