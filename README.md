@@ -1,5 +1,3 @@
-### Hello there 😸
-
 ### I Code.
 
 #### An ML Developer by day ☼ and Backend Developer by night ☾
